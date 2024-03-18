@@ -23,7 +23,7 @@ namespace ARMClient.Authentication
             { "Prod.AADGraphUrl", "https://graph.windows.net" },
             { "Prod.AADLoginUrl", "https://login.microsoftonline.com" },
             { "Prod.ARMResource", "https://management.core.windows.net/" },
-            { "Prod.ARMUrl", "https://management.azure.com" },
+            { "Prod.ARMUrl", "https://eastus2euap.management.azure.com" },
             { "Prod.KeyVaultResource", "https://vault.azure.net" },
             { "Prod.RDFEUrl", "https://management.core.windows.net" },
             { "Prod.ScmSuffix", ".scm.azurewebsites.net" },
